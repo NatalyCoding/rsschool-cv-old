@@ -82,11 +82,12 @@ I work on developing open sourse Bootsrap snippets library, including different 
      </nav>`
      
  
- &nbsp; 
+
  6. Experience: In my spare time I like to build small side projects to test new technologies.
  
  
- &nbsp; 
+ &nbsp;
+ 
  7. Education: 
  
  Course name | was held by | time
@@ -94,12 +95,13 @@ I work on developing open sourse Bootsrap snippets library, including different 
 **FrontEnd Development** Learned HTML, CSS, SaSS, Bootstrap, basics of JavaScript and jQuery | Brain Basket Foundation | 2017: May - July
 **HTML5 App Development** Refreshed my knowledge of HTML, CSS and JavaScript | SoftServe IT Academy Lviv | 2018, June - July
 **Python Core** Started new year by learning new popular language and developing skills to automate some tasks | SoftServe IT Academy Lviv | 2019, January - February
-**International SEO** | Webpromoexperts | July - August 2019
+International SEO | Webpromoexperts | July - August 2019
 **Front-end/JavaScript** | RSSchool | September 2019 - current time
-**Blockchain Development** | Ivan on Tech Academy | August 2019 -current time
+Blockchain Development | Ivan on Tech Academy | August 2019 -current time
 
 
 &nbsp; 
+
 8. English: Upper-Intermediate 
 
  
