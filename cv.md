@@ -2,9 +2,14 @@
 
 1. Name: **Natalia Panakhyd**
 
-2. Contact info: [natalycoding@gmail.com](mailto:natalycoding@gmail.com) [linkedin](https://www.linkedin.com/in/nataly-panakhyd-11a01441/)                  [medium - Nataly Pan](https://medium.com/@nataly247) [telegram](t.me/natalycoding) 
+2. Contact info: 
 
-3. Summary: I can’t imagine my life without discovering new things, new places and new people, and, of course, developing new skills.      Front-end and design was my hobby for some time and I’d love it to become my job in near future. 
+[natalycoding@gmail.com](mailto:natalycoding@gmail.com)    [linkedin](https://www.linkedin.com/in/nataly-panakhyd-11a01441/)                  [medium - Nataly Pan](https://medium.com/@nataly247)    [telegram](t.me/natalycoding) 
+
+3. Summary: 
+
+I can’t imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
+Front-end and design was my hobby for some time and I’d love it to become my job in near future. 
 
 4. Skills: 
 
@@ -64,9 +69,7 @@ I work on developing open sourse Bootsrap snippets library, including different 
  Course name | was held by | time
 ------------ | ------------- | -------------
 **FrontEnd Development** Learned HTML, CSS, SaSS, Bootstrap, basics of JavaScript and jQuery | Brain Basket Foundation | 2017: May - July
-
 **HTML5 App Development** Refreshed my knowledge of HTML, CSS and JavaScript | SoftServe IT Academy Lviv | 2018, June - July
-
 **Python Core** Decided to start a new year by learning new popular language and developing new skills to automate some tasks | SoftServe IT Academy Lviv | 2019, January - February
 
 8. English: intermediate 
