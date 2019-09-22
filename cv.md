@@ -1,10 +1,16 @@
-#My CV
+##My CV##
 
 1. Name: **Natalia Panakhyd**
 
 2. Contact info: 
 
-[natalycoding@gmail.com](mailto:natalycoding@gmail.com)    [linkedin](https://www.linkedin.com/in/nataly-panakhyd-11a01441/)                  [medium - Nataly Pan](https://medium.com/@nataly247)    [telegram](t.me/natalycoding) 
+[natalycoding@gmail.com](mailto:natalycoding@gmail.com) 
+
+[linkedin](https://www.linkedin.com/in/nataly-panakhyd-11a01441/) 
+
+[medium - Nataly Pan](https://medium.com/@nataly247) 
+
+[telegram](t.me/natalycoding) 
 
 3. Summary: 
 
@@ -70,9 +76,11 @@ I work on developing open sourse Bootsrap snippets library, including different 
 ------------ | ------------- | -------------
 **FrontEnd Development** Learned HTML, CSS, SaSS, Bootstrap, basics of JavaScript and jQuery | Brain Basket Foundation | 2017: May - July
 **HTML5 App Development** Refreshed my knowledge of HTML, CSS and JavaScript | SoftServe IT Academy Lviv | 2018, June - July
-**Python Core** Decided to start a new year by learning new popular language and developing new skills to automate some tasks | SoftServe IT Academy Lviv | 2019, January - February
+**Python Core** Started new year by learning new popular language and developing skills to automate some tasks | SoftServe IT Academy Lviv | 2019, January - February
+**International SEO** | Webpromoexperts | July - August 2019
+**Front-end/JavaScript** | RSSchool | September 2019 - current time
 
-8. English: intermediate 
+8. English: Upper-Intermediate 
 
  
 
