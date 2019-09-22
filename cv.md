@@ -10,7 +10,9 @@
 
 [telegram](t.me/natalycoding) 
 
-[medium - Nataly Pan](https://medium.com/@nataly247) 
+[twitter](https://twitter.com/CodingNataly)
+
+[medium](https://medium.com/@nataly247) 
 
 
 
@@ -90,6 +92,7 @@ I work on developing open sourse Bootsrap snippets library, including different 
 **Python Core** Started new year by learning new popular language and developing skills to automate some tasks | SoftServe IT Academy Lviv | 2019, January - February
 **International SEO** | Webpromoexperts | July - August 2019
 **Front-end/JavaScript** | RSSchool | September 2019 - current time
+**Blockchain Development** | Ivan on Tech Academy | August 2019 -current time
 
 
 8. English: Upper-Intermediate 
