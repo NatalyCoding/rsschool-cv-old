@@ -19,11 +19,16 @@ Front-end and design was my hobby for some time and I’d love it to become my j
 
 4. Skills: 
 
-*Front-End*: **HTML5, CSS3**, CSS Animations, SaSS, SCSS, **Javascript**, jQuery; 
+*Front-End*: **HTML5, CSS3**, CSS Animations, SaSS, SCSS, **Javascript**, jQuery;
+
 *Version Control*: **Git & Github**, Bitbucket;
+
 *CMS*: **Wordpress**, Woordpress Themes Development, Elementor, Visual Composer, Contact Forms 7, Gutenberg; 
+
 *CSS Frameworks and Libraries*: **Bootstrap**, Foundation, Materialize, Animate.css;
+
 *Design Skills*: **Web Design**, Graphic Design, Photoshop, Figma;
+
 *Other programming languages*: Python, PHP basics;
 
 5. Code Examples: 
