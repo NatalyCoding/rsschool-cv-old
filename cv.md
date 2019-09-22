@@ -92,12 +92,12 @@ I work on developing open sourse Bootsrap snippets library, including different 
  
  Course name | was held by | time
 ------------ | ------------- | -------------
-**FrontEnd Development** Learned HTML, CSS, SaSS, Bootstrap, basics of JavaScript and jQuery | Brain Basket Foundation | 2017: May - July
+**FrontEnd Development** Learned HTML, CSS, SaSS, Bootstrap, basics of JavaScript and jQuery | Brain Basket Foundation | 2017, May - July
 **HTML5 App Development** Refreshed my knowledge of HTML, CSS and JavaScript | SoftServe IT Academy Lviv | 2018, June - July
 **Python Core** Started new year by learning new popular language and developing skills to automate some tasks | SoftServe IT Academy Lviv | 2019, January - February
-International SEO | Webpromoexperts | July - August 2019
-**Front-end/JavaScript** | RSSchool | September 2019 - current time
-Blockchain Development | Ivan on Tech Academy | August 2019 -current time
+International SEO | Webpromoexperts | 2019, July - August 
+**Front-end/JavaScript** | RSSchool | 2019, September - current time
+Blockchain Development | Ivan on Tech Academy | 2019, August - current time
 
 
 &nbsp; 
