@@ -15,14 +15,16 @@
 [medium](https://medium.com/@nataly247) 
 
 
- &nbsp; 
+&nbsp;  
+
 3. Summary: 
 
 I can’t imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
 I beleive that passion and hard work are keys to success. And the best way to do great work is to love what you do. Web design and development was my hobby for some time and I’d love it to become my job in near future. 
 
 
- &nbsp; 
+&nbsp;  
+
 4. Skills: 
 
 *Front-End*: **HTML5, CSS3**, CSS Animations, SaSS, SCSS, **Javascript**, jQuery;
