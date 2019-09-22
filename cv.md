@@ -19,7 +19,7 @@
 3. Summary: 
 
 I can’t imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
-Front-end and design was my hobby for some time and I’d love it to become my job in near future. 
+I beleive that passion and hard work are keys to success. And the best way to do great work is to love what you do. Front-end and design was my hobby for some time and I’d love it to become my job in near future. 
 
 
 4. Skills: 
