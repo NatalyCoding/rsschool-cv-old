@@ -63,8 +63,7 @@ I work on developing open sourse Bootsrap snippets library, including different 
  
  Course name | was held by | time
 ------------ | ------------- | -------------
-**FrontEnd Development** Learned HTML, CSS, SaSS, Bootstrap, basics of JavaScript and jQuery. 
-Fall in love with web development) | Brain Basket Foundation | 2017: May - July
+**FrontEnd Development** Learned HTML, CSS, SaSS, Bootstrap, basics of JavaScript and jQuery | Brain Basket Foundation | 2017: May - July
 
 **HTML5 App Development** Refreshed my knowledge of HTML, CSS and JavaScript | SoftServe IT Academy Lviv | 2018, June - July
 
