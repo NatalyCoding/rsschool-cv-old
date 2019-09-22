@@ -15,14 +15,14 @@
 [medium](https://medium.com/@nataly247) 
 
 
-
+ &nbsp; 
 3. Summary: 
 
 I can’t imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
 I beleive that passion and hard work are keys to success. And the best way to do great work is to love what you do. Web design and development was my hobby for some time and I’d love it to become my job in near future. 
 
 
-
+ &nbsp; 
 4. Skills: 
 
 *Front-End*: **HTML5, CSS3**, CSS Animations, SaSS, SCSS, **Javascript**, jQuery;
@@ -38,7 +38,7 @@ I beleive that passion and hard work are keys to success. And the best way to do
 *Other programming languages*: Python, PHP basics;
 
 
-
+ &nbsp; 
 5. Code Examples: 
 
 I work on developing open sourse Bootsrap snippets library, including different site blocks, like this navbar, for example:
@@ -82,11 +82,11 @@ I work on developing open sourse Bootsrap snippets library, including different 
      </nav>`
      
  
- 
+  &nbsp; 
  6. Experience: In my spare time I like to build small side projects to test new technologies.
  
  
- 
+  &nbsp; 
  7. Education: 
  
  Course name | was held by | time
@@ -99,7 +99,7 @@ I work on developing open sourse Bootsrap snippets library, including different 
 **Blockchain Development** | Ivan on Tech Academy | August 2019 -current time
 
 
-
+ &nbsp; 
 8. English: Upper-Intermediate 
 
  
