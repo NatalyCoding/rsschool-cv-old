@@ -19,7 +19,8 @@
 3. Summary: 
 
 I can’t imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
-I beleive that passion and hard work are keys to success. And the best way to do great work is to love what you do. Front-end and design was my hobby for some time and I’d love it to become my job in near future. 
+I beleive that passion and hard work are keys to success. And the best way to do great work is to love what you do. Web design and development was my hobby for some time and I’d love it to become my job in near future. 
+
 
 
 4. Skills: 
@@ -35,6 +36,7 @@ I beleive that passion and hard work are keys to success. And the best way to do
 *Design Skills*: **Web Design**, Graphic Design, Photoshop, Figma;
 
 *Other programming languages*: Python, PHP basics;
+
 
 
 5. Code Examples: 
@@ -79,8 +81,10 @@ I work on developing open sourse Bootsrap snippets library, including different 
         </div>
      </nav>`
      
-     
+ 
+ 
  6. Experience: In my spare time I like to build small side projects to test new technologies.
+ 
  
  
  7. Education: 
@@ -93,6 +97,7 @@ I work on developing open sourse Bootsrap snippets library, including different 
 **International SEO** | Webpromoexperts | July - August 2019
 **Front-end/JavaScript** | RSSchool | September 2019 - current time
 **Blockchain Development** | Ivan on Tech Academy | August 2019 -current time
+
 
 
 8. English: Upper-Intermediate 
