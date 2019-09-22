@@ -8,14 +8,17 @@
 
 [linkedin](https://www.linkedin.com/in/nataly-panakhyd-11a01441/) 
 
+[telegram](t.me/natalycoding) 
+
 [medium - Nataly Pan](https://medium.com/@nataly247) 
 
-[telegram](t.me/natalycoding) 
+
 
 3. Summary: 
 
 I can’t imagine my life without discovering new things, new places and new people, and, of course, developing new skills. 
 Front-end and design was my hobby for some time and I’d love it to become my job in near future. 
+
 
 4. Skills: 
 
@@ -30,6 +33,7 @@ Front-end and design was my hobby for some time and I’d love it to become my j
 *Design Skills*: **Web Design**, Graphic Design, Photoshop, Figma;
 
 *Other programming languages*: Python, PHP basics;
+
 
 5. Code Examples: 
 
@@ -73,7 +77,9 @@ I work on developing open sourse Bootsrap snippets library, including different 
         </div>
      </nav>`
      
+     
  6. Experience: In my spare time I like to build small side projects to test new technologies.
+ 
  
  7. Education: 
  
@@ -84,6 +90,7 @@ I work on developing open sourse Bootsrap snippets library, including different 
 **Python Core** Started new year by learning new popular language and developing skills to automate some tasks | SoftServe IT Academy Lviv | 2019, January - February
 **International SEO** | Webpromoexperts | July - August 2019
 **Front-end/JavaScript** | RSSchool | September 2019 - current time
+
 
 8. English: Upper-Intermediate 
 
